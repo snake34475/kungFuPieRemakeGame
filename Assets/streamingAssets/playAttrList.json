@@ -1,0 +1,39 @@
+{
+    "attr": {
+        "lv": 1,
+        "cur_exp": 0.0,
+        "pre_exp": 100.0,
+        "pre_hp": 200,
+        "cur_hp": 200,
+        "pre_mp": 50,
+        "cur_mp": 50,
+        "atk": 20,
+        "dt": 5,
+        "baoJi": 0,
+        "baoAtk": 1,
+        "dodge": 0,
+        "hit": 0
+    },
+    "backGround": [
+        {
+            "num": 3,
+            "name": "百草丸"
+        },
+        {
+            "num": 1,
+            "name": "土熊珠"
+        },
+        {
+            "num": 1,
+            "name": "金熊珠"
+        },
+        {
+            "num": 2,
+            "name": "木熊珠"
+        },
+        {
+            "num": 2,
+            "name": "水熊珠"
+        }
+    ]
+}
