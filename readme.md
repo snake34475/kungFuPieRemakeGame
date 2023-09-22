@@ -32,7 +32,7 @@
 
 ### 网页版
 
-http://gongfu.onestyle.top/ （网页版已失效）
+http://gongfu.onestyle.fun/
 ### 本地版
 
 * 下载代码中的build文件，解压后双击`cangmeng.exe`运行即可
